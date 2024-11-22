@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirill and I do different things.
-- 📍 Based in Kyrgyzstan 🇰🇬
+- 📍 Based in Kyrgyzstan.
 
 <!---
 kirill-retouch/kirill-retouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
